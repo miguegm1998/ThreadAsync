@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThreadAsync</string>
+    <string name="thread1">Thread</string>
+    <string name="async">AsyncTask</string>
+</resources>
